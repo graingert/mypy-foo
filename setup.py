@@ -101,7 +101,7 @@ package_dir = {'mypy': 'mypy'}
 # (as suggested by README.md).
 install_requires = [
     'typed-ast >= 1.0.4, < 1.1.0',
-    'typeshed >= 0.0.0a0, < 0.1.0',
+    'typeshed >= 0.0.0a2, < 0.1.0',
 ]
 
 if sys.version_info < (3, 5):
